@@ -1,1 +1,2 @@
-[Basic_NN_Lightning](https://nbviewer.org/github/ramizallahverdiyev/Neural_Networks/blob/main/basic_nn_lightning.ipynb)
+[Basic NN using Lightning](https://nbviewer.org/github/ramizallahverdiyev/Neural_Networks/blob/main/basic_nn_lightning.ipynb)
+[LSTM from scratch and using Lightning](https://nbviewer.org/github/ramizallahverdiyev/Neural_Networks/blob/main/LSTM_Scratch%26Lightning.ipynb)
